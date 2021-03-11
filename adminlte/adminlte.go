@@ -3,12 +3,12 @@ package adminlte
 import (
 	"strings"
 
-	adminTemplate "github.com/GoAdminGroup/go-admin/template"
-	"github.com/GoAdminGroup/go-admin/template/components"
-	"github.com/GoAdminGroup/go-admin/template/types"
-	"github.com/GoAdminGroup/themes/adminlte/resource"
-	"github.com/GoAdminGroup/themes/common"
 	"github.com/gobuffalo/packr/v2"
+	adminTemplate "github.com/m4x1r/go-admin/template"
+	"github.com/m4x1r/go-admin/template/components"
+	"github.com/m4x1r/go-admin/template/types"
+	"github.com/m4x1r/themes/adminlte/resource"
+	"github.com/m4x1r/themes/common"
 )
 
 const (

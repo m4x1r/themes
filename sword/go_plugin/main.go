@@ -4,11 +4,11 @@ import (
 	"html/template"
 	"strings"
 
-	"github.com/GoAdminGroup/go-admin/modules/language"
-	"github.com/GoAdminGroup/go-admin/template/components"
-	"github.com/GoAdminGroup/go-admin/template/types"
-	"github.com/GoAdminGroup/themes/sword"
-	"github.com/GoAdminGroup/themes/sword/resource"
+	"github.com/m4x1r/go-admin/modules/language"
+	"github.com/m4x1r/go-admin/template/components"
+	"github.com/m4x1r/go-admin/template/types"
+	"github.com/m4x1r/themes/sword"
+	"github.com/m4x1r/themes/sword/resource"
 )
 
 type Theme struct {
