@@ -2714,13 +2714,13 @@ var TemplateList = map[string]string{"403": `<div class="missing-content">
     </aside>
 {{end}}`, "footer": `{{define "footer"}}
     <footer class="main-footer">
-        <div class="pull-right hidden-xs">
-            <b>Version</b> {{.System.Version}}
-        </div>
-        <div class="pull-right hidden-xs">
-            <b>Theme</b> {{.System.Theme}}&nbsp;&nbsp;
-        </div>
-        <strong>Powered by <a href="https://github.com/m4x1r/go-admin">LinkCon</a>.</strong>
+        // <div class="pull-right hidden-xs">
+        //     <b>Version</b> {{.System.Version}}
+        // </div>
+        // <div class="pull-right hidden-xs">
+        //     <b>Theme</b> {{.System.Theme}}&nbsp;&nbsp;
+        // </div>
+        // <strong>Powered by <a href="https://github.com/m4x1r/go-admin">LinkCon</a>.</strong>
         {{.FooterInfo}}
     </footer>
 {{end}}`, "head": `{{define "head"}}
